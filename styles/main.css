@@ -1,0 +1,42 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+    background-color: #ecf0f1;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr {
+    width: 50%;
+    border: 0;
+    height: 3px;
+    background: black;
+}
+
+.container {
+    width: 80%;
+    height: 45%;
+}
+
+.search {
+    margin-top: 30px;
+}
+
+.find {
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.6);
+}
+
+.btn {
+    background-color: #ecf0f1;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.6);
+}
